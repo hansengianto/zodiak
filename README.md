@@ -8,4 +8,4 @@ pip install bs4
 python zodiak.py
 
 # Source
-<a href="fimela.com/zodiak">Fimela.com</a>
+<a href="https://fimela.com/zodiak">Fimela.com</a>
